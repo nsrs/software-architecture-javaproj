@@ -1,0 +1,93 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size:   2em;
+  font-weight: bold;
+  color: 	   #777777;
+  margin: 	   40px 0px 70px;
+  text-align:  center;
+}
+
+.button-form {
+  display:   block;
+  font-size: 16pt;
+}
+
+.label-error {
+  color: red;
+}
+
+.label-strong {
+  font-weight: bold;
+  font-size:   1.5em;
+}
+
+.deck {
+  margin: 		auto;
+  width:  		50%;
+  text-align: 	center;
+}
+
+.puzzle-grid {
+  border: 0.4em solid black;
+  background-color:	
+}
+
+.puzzle-cell {
+  width:			3em;
+  height:			3em;
+  margin:			0px;
+  border: 			0.2em solid black;
+  font-size: 		1em;
+  font-family:  	monospace;
+  font-weight:  	bold;
+  text-align:		center;
+}
+
+.puzzle-cell-ready {
+ background-color: #E7E7E7;  /* gray */
+}
+
+.puzzle-cell-active {
+  background-color: #ADD8E6; /* light blue*/
+}
+
+.puzzle-cell-correct {
+  background-color: #7CFC00; /* green */
+}
+
+.puzzle-cell-wrong {
+  background-color: #FF0000; /* red */
+}
+
+.ranking-cell {
+  border:	0.1em solid black;
+  width:	200px;
+  overflow: hidden;
+}
+
+.standby {
+  background-color: DimGray;
+}
+
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.gwt-Label {
+  margin-right:  2em;
+  margin-bottom: 2em;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}

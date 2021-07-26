@@ -1,0 +1,2 @@
+serviceClass: wwwordz.client.GreetingService
+path: 69C56E07D4AA20320606A9FC5A368D57.gwt.rpc

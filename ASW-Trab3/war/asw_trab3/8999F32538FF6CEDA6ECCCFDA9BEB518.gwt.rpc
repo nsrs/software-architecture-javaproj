@@ -1,0 +1,26 @@
+@FinalFields, false
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.util.ArrayList, true, true, false, false, java.util.ArrayList/4159755760, 4159755760
+java.util.Arrays$ArrayList, true, true, false, false, java.util.Arrays$ArrayList/2507071751, 2507071751
+java.util.Collections$EmptyList, true, true, false, false, java.util.Collections$EmptyList/4157118744, 4157118744
+java.util.Collections$SingletonList, true, true, false, false, java.util.Collections$SingletonList/1586180994, 1586180994
+java.util.LinkedList, true, true, false, false, java.util.LinkedList/3953877921, 3953877921
+java.util.Stack, true, true, false, false, java.util.Stack/1346942793, 1346942793
+java.util.Vector, true, true, false, false, java.util.Vector/3057315478, 3057315478
+wwwordz.client.ManagerService, false, false, false, false, _, 371207116
+wwwordz.shared.Puzzle, true, true, false, false, wwwordz.shared.Puzzle/1393371198, 1393371198
+wwwordz.shared.Puzzle$Solution, true, true, false, false, wwwordz.shared.Puzzle$Solution/498924046, 498924046
+[Lwwwordz.shared.Puzzle$Solution;, true, true, false, false, [Lwwwordz.shared.Puzzle$Solution;/4120880751, 4120880751
+wwwordz.shared.Rank, true, true, false, false, wwwordz.shared.Rank/1465429584, 1465429584
+[Lwwwordz.shared.Rank;, true, true, false, false, [Lwwwordz.shared.Rank;/3114497479, 3114497479
+wwwordz.shared.Table, true, true, false, false, wwwordz.shared.Table/1306467062, 1306467062
+wwwordz.shared.Table$Cell, true, true, false, false, wwwordz.shared.Table$Cell/941174431, 941174431
+[Lwwwordz.shared.Table$Cell;, true, true, false, false, [Lwwwordz.shared.Table$Cell;/1547891858, 1547891858
+[[Lwwwordz.shared.Table$Cell;, true, true, false, false, [[Lwwwordz.shared.Table$Cell;/2300619742, 2300619742
+wwwordz.shared.WWWordzException, true, true, false, false, wwwordz.shared.WWWordzException/2801784744, 2801784744
